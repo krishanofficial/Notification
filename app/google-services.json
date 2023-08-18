@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226242649636",
+    "project_id": "sendnotification-1017a",
+    "storage_bucket": "sendnotification-1017a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226242649636:android:6d1f4ecbd77ce1b18842b1",
+        "android_client_info": {
+          "package_name": "com.example.sendnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226242649636-kvpcltvfjsoqviohjp45uhp62f3g0pa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5gFQyUddvCTiPwjxNQM9REYrh7T0Lp_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226242649636-kvpcltvfjsoqviohjp45uhp62f3g0pa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
